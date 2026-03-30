@@ -7,7 +7,7 @@ with your name. Then, save the code, add it to the staging area, and commit it t
 
 def main():
     print("Hello World!")
-    robot_speed = 5
+    robot_speed = 8
 
     name = "Anasuya" # TODO: Insert your name between the double quotes
 
